@@ -1,0 +1,115 @@
+
+#EXTM3U
+#EXTINF:-1,*****LABORATORIO +18*****
+https://topplay.do.am/AdultsTopPlay.m3u
+#EXTINF:-1,JASMIN 2 HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+#EXTINF:-1,Miami TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+#EXTINF:-1,pink erotic 8
+http://uotv.gearhostpreview.com/av$.php?id=21
+#EXTINF:-1,prive HD
+https://tinyurl.com/yb7brjps
+#EXTINF:-1,reality king
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1,chino
+https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+#EXTINF:-1,hustler
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
+#EXTINF:-1,erox 3
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=179&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
+#EXTINF:-1,erox 4
+http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA 
+#EXTINF:-1,erox 5
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=180&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==& 
+#EXTINF:-1,hustler 1
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==& 
+#EXTINF:-1,hustler 2
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1,redlihgt
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=215&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1,prive 1 HD
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=213&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1,freextv1
+http://84.22.43.246:8000/play/a02b
+#EXTINF:-1,freextv2
+http://84.22.43.246:8000/play/a02c
+#EXTINF:-1,x dream 3
+http://84.22.43.246:8000/play/a03e
+#EXTINF:-1,x dream 2
+http://84.22.43.246:8000/play/a03f
+#EXTINF:-1,film box
+http://84.22.43.246:8000/play/a08e
+#EXTINF:-1,hustler HD
+http://188.35.9.26:2030/udp/047c
+#EXTINF:-1,bunga bunga
+http://5.135.92.133:52841/out/u/107_1.m3u8 
+#EXTINF:-1,super one
+http://185.96.176.139:90/superone/index.m3u8
+#EXTINF:-1,vivid europa
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1,vivid red
+http://rr2.73mtv.org/~1064ed932743c62210a5558d20bdb301ca5/91663
+#EXTINF:-1,redlight hd
+http://rr2.73mtv.org/~1064ed932743c62210a5558d20bdb301ca5/90254
+#EXTINF:-1,play boy
+http://e01.plius.tv:64144/n137/video.m3u8
+#EXTINF:-1,NYX Media 1 (18+)
+http://5a2a51fc4cfde.streamlock.net:1935/free/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1,compilation
+http://live.redtraffic.net/compilation.m3u8
+#EXTINF:-1,ANAL
+http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1,interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1,pedzie
+http://live.redtraffic.xyz/pedzie.m3u8
+#EXTINF:-1,les china
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1,rusa
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1,1(latinas)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,2(teen)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,3(pov)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,porn star
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,milf
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,bigass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,FETISH
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,bigtits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1,bigdick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1,threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,1(live cams)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1,trans
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1,trans
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1,AST TV XXX 1 18+
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1,AST TV XXX 2 18+
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1,4(video)
+http://198.144.157.127:1935/redirect/ondemand-1/_definst_/mp4:path3/XXX/NAUGHTY.AMERICA/BRANDI.LOVE.mp4?type=m3u8
+#EXTINF:-1,4(pelicula)
+https://135zyv6.xw0371.com/2018/11/22/85nkPE8exgqwO98r/playlist.m3u8
+#EXTINF:-1,1(pelicula)
+http://srv.maxptv.net:8080/movie/celia/12345678/6662.mp4
+
+
+
+
+
+
+
